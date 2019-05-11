@@ -1,0 +1,5 @@
+#start by simply importing turtle as such
+import turtle
+#this should import the turtle into the shell you are using
+#use a simple command to open the turle window
+turtle.forward(15)
